@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f4c5a4e-ca03-41fd-a0e9-a993ed94dc66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.1\repo" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hDAS12HeX5gDfvISmmfIZ4JM4x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zuul/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.service04.controller" />
+      <recent name="com.example.service03.controller" />
+      <recent name="com.example.service02.controller" />
+      <recent name="com.example.service02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Asddckj\SourceCode\SpringCloud-Microservices\zuul\src\main\resources" />
+      <recent name="D:\Asddckj\SourceCode\SpringCloud-Microservices\service04\src\main\resources" />
+      <recent name="D:\Asddckj\SourceCode\SpringCloud-Microservices\service03\src\main\resources" />
+      <recent name="D:\Asddckj\SourceCode\SpringCloud-Microservices\service02\src\main\resources" />
+      <recent name="D:\Asddckj\SourceCode\SpringCloud-Microservices\depository\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication (1)">
+    <configuration name="DepositoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="depository" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.depository.DepositoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="peer1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="peer2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="peer3" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.service01.Service01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.service02.Service02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service03" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.service03.Service03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service04Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service04" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.service04.Service04Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.zuul.ZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DepositoryApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication (1)" />
+      <item itemvalue="Spring Boot.EurekaServerApplication (2)" />
+      <item itemvalue="Spring Boot.EurekaServerApplication (3)" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.Service01Application" />
+      <item itemvalue="Spring Boot.Service03Application" />
+      <item itemvalue="Spring Boot.Service04Application" />
+      <item itemvalue="Spring Boot.Service02Application" />
+      <item itemvalue="Spring Boot.ZuulApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f4c5a4e-ca03-41fd-a0e9-a993ed94dc66" name="Default Changelist" comment="" />
+      <created>1599535284933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599535284933</updated>
+      <workItem from="1599535289789" duration="16213000" />
+      <workItem from="1599559331213" duration="27000" />
+      <workItem from="1599611760339" duration="12059000" />
+      <workItem from="1599697166904" duration="3527000" />
+      <workItem from="1599784186854" duration="2615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1599535325809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599535325809" />
+    <state x="755" y="216" width="1165" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599700754794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="216" width="1165" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599700754794" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1599559278051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599559278051" />
+    <state width="1877" height="530" key="GridCell.Tab.0.bottom" timestamp="1599702882881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="530" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599702882881" />
+    <state width="1877" height="530" key="GridCell.Tab.0.center" timestamp="1599702882881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="530" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599702882881" />
+    <state width="1877" height="530" key="GridCell.Tab.0.left" timestamp="1599702882881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="530" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599702882881" />
+    <state width="1877" height="530" key="GridCell.Tab.0.right" timestamp="1599702882881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="530" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599702882881" />
+    <state width="1877" height="530" key="GridCell.Tab.1.bottom" timestamp="1599702882882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="530" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599702882882" />
+    <state width="1877" height="530" key="GridCell.Tab.1.center" timestamp="1599702882882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="530" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599702882882" />
+    <state width="1877" height="530" key="GridCell.Tab.1.left" timestamp="1599702882882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="530" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599702882881" />
+    <state width="1877" height="530" key="GridCell.Tab.1.right" timestamp="1599702882882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="530" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599702882882" />
+    <state x="531" y="185" key="Registry" timestamp="1599622238937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="185" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1599622238937" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1599622144244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599622144244" />
+    <state x="690" y="279" key="extract.method.dialog" timestamp="1599550936518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="279" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599550936518" />
+    <state x="334" y="136" key="new project wizard" timestamp="1599784221646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599784221646" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1599559290185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599559290185" />
+  </component>
+</project>
